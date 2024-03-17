@@ -1,7 +1,6 @@
 # Custom phi2 use
 
-Custom use of Phi2 model.
-An open source LLM.
+Custom use of Phi2 model wich is an open source LLM.
 We use 2B version.
 
 ## Objectives
@@ -28,11 +27,11 @@ python main.py
 
 ### Launch model quantization
 
-**_Coming soon_**
+> ⏳ Coming soon
 
 ### Offline use
 
-**_Coming soon_**
+> ⏳ Coming soon
 
 ## Resources
 
