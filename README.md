@@ -1,4 +1,4 @@
-# Falcon-7B-use
+# Custom phi2 use
 
 Custom use of Phi2 model.
 An open source LLM.
