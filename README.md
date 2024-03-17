@@ -25,6 +25,10 @@ python -m pip install git+https://github.com/huggingface/transformers
 python main.py
 ```
 
+#### Results
+
+![poc-result](./media/custom_prompt.png)
+
 ### Launch model quantization
 
 > ⏳ Coming soon
