@@ -29,13 +29,13 @@ python main.py
 
 ![poc-result](./media/custom_prompt.png)
 
-### Launch model quantization
+### TODO
 
-> ⏳ Coming soon
-
-### Offline use
-
-> ⏳ Coming soon
+- [x] First Phi-2 use
+- [x] Try custom prompt
+- [ ] Improve prompt
+- [ ] Offline use
+- [ ] Model quantization
 
 ## Resources
 
